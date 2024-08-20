@@ -2,7 +2,8 @@
 
 # Tecnicatura Universitaria en Desarrollo Web
 
-## Trabajo Práctico de Programación III
+## Programación III
+## TP1 - Repaso JS
     
 ### Integrantes:
 - Luis Sanchez
