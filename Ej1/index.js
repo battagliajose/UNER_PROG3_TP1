@@ -14,7 +14,7 @@
             b) Agregar un nuevo personaje y sobrescribir el archivo original.
             c) Eliminar los personajes cuyo ID sean mayores a 25 y sobrescribir el archivo original
   =====================================================================================================
- */
+*/
 
 const fs = require('fs');
 const api = require('./api.js');
