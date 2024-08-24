@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "node-notifier": "^10.0.1"
+  }
+}
