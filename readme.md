@@ -10,3 +10,7 @@
 - José Battaglia
 - Cristian Seltenreich
 - Silvana Zalazar
+
+### Ejecución:
+Dentro de Ej1 o Ej2
+  ```npm start```
